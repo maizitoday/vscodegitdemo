@@ -3,12 +3,12 @@ package com.example.demo;
  * @Description: 请输入....
  * @Author: 麦子
  * @Date: 2019-07-24 11:17:03
- * @LastEditTime: 2019-07-24 11:53:48
+ * @LastEditTime: 2019-07-24 12:25:36
  * @LastEditors: 麦子
  */
 
 public class TestMain {
     public static void main(String[] args) {
-        System.out.println("测试运行------2");
+        System.out.println("最近记录信息");
     }
 }
