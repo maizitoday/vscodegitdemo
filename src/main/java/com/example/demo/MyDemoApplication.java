@@ -3,7 +3,7 @@ package com.example.demo;
  * @Description: 请输入....
  * @Author: 麦子
  * @Date: 2019-07-22 18:43:57
- * @LastEditTime: 2019-07-25 19:41:21
+ * @LastEditTime: 2019-07-25 20:04:42
  * @LastEditors: 麦子
  */
 
@@ -14,6 +14,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyDemoApplication.class, args);
+		SpringApplication.run(MyDemoApplication.class, args); 
 	}
 }
